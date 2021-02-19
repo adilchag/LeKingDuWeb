@@ -2,16 +2,15 @@
 
 
 
-Un simple script js permettant de déclencher l'action de clic sur un div développé en HTML.
+A simple JavaScript script to trigger the click action on a div developed in HTML.
 
-Pour rendre une animation possible, l'élément animé doit être animé par rapport à un "conteneur parent".
+To make animation possible, the animated element must be animated relative to a "parent container".
 
-L'élément conteneur doit être créé avec style = "position: relative".
+The containing element must be created with style = "position: relative".
 
-L'élément d'animation doit être créé avec style = "position: absolute".
+The animation element must be created with style = "position: absolute".
 
-Les animations JavaScript sont réalisées en programmant des changements progressifs dans le style d'un élément.
+JavaScript animations are achieved by programming incremental changes in the style of an element.
 
-Les modifications sont appelées par une minuterie. Lorsque l'intervalle du minuteur est petit, l'animation semble continue.
-
+The changes are called by a timer. When the timer interval is small, the animation appears continuous.
 
