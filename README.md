@@ -1,6 +1,8 @@
-# LeKingDuWeb
+# YOUR PROJECT TITLE
 
-
+#### Video Demo:  <URL HERE>
+  
+#### Description:
 
 A simple JavaScript script to trigger the click action on a div developed in HTML.
 
